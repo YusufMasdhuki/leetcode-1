@@ -1,0 +1,5 @@
+echo 'running  pre commit scripts'
+echo 'starting to format the code'
+npm run format
+echo 'linting the code'
+echo 'pre commit scripts finished'
