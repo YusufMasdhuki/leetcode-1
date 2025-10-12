@@ -2,4 +2,5 @@ echo 'running  pre commit scripts'
 echo 'starting to format the code'
 npm run format
 echo 'linting the code'
+npm run lint:fix
 echo 'pre commit scripts finished'
