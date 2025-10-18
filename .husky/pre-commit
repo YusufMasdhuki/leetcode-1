@@ -9,4 +9,7 @@ npm run format
 echo 'linting the code'
 npm run lint:fix
 
+echo 'running build app'
+npm run build
+
 echo 'pre commit scripts finished'
